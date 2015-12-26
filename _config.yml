@@ -1,7 +1,7 @@
 name: Allyn Edmonds
 favicon: null
-layout_spectrum: 0.51909
-typography_spectrum: 0.4877299228683114
+layout_spectrum: 0.25346
+typography_spectrum: 0.50083
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.14902470167726278
+    - '#cbccce'
+    - '#1a1a1a'
+    - '#9f9a96'
+    - '#51595c'
+    - '#ab4349'
+  brandStrength: 0.5
   lightness: 0.12974455137737095
   saturation: 0.6875
   rhythmicContrast: 0.35833680955693126
