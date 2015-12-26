@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Allyn Edmonds]]></title>
         <description><![CDATA[Allyn Edmonds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/allyn-edmonds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 01:37:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 01:41:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/allyn-edmonds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Christmas 2015]]></title>
             <description><![CDATA[<article><h1>Christmas 2015</h1><p>The end of the year has come and what a year it has been. Some terrible lows and some not so high highs. Both my parents passed away this year which is the lowest of the lows. It's been a incredibly difficult thing to deal with but we're getting through it one day at a time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c2756587e9e50fa871672a039c5289ce707902e.jpg"></article>]]></description>
-            <link>undefinedchristmas-2015/index.html</link>
+            <link>https://thegrid.ai/allyn-edmonds/christmas-2015/index.html</link>
             <guid isPermaLink="false">6079db14-4157-46c4-9b70-fce1d30dc02c</guid>
-            <pubDate>Sat, 26 Dec 2015 01:37:35 GMT</pubDate>
+            <pubDate>Sat, 26 Dec 2015 01:40:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
