@@ -1,6 +1,6 @@
 name: Allyn Edmonds
 favicon: null
-layout_spectrum: 0.36662479722872376
+layout_spectrum: 0.51909
 typography_spectrum: 0.4877299228683114
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#004E98'
   brandStrength: 0.14902470167726278
   lightness: 0.12974455137737095
-  saturation: 0.6019465846475214
+  saturation: 0.6875
   rhythmicContrast: 0.35833680955693126
 purpose: []
