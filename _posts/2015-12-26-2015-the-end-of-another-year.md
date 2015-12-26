@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: My thoughts on the year that was 2015
-datePublished: '2015-12-26T01:48:25.573Z'
-dateModified: '2015-12-26T01:48:08.038Z'
+datePublished: '2015-12-26T01:50:14.714Z'
+dateModified: '2015-12-26T01:50:08.477Z'
 title: 2015 - The End of Another year
 author: []
 authors: []
