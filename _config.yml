@@ -1,6 +1,6 @@
 name: Allyn Edmonds
 favicon: null
-layout_spectrum: 0.25346
+layout_spectrum: 0.49527
 typography_spectrum: 0.50083
 title: 'My life as a father, photography and ride-share driver.'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#cbccce'
-    - '#1a1a1a'
-    - '#9f9a96'
-    - '#51595c'
-    - '#ab4349'
+    - '#7f8395'
+    - '#d3e5eb'
+    - '#c0ccd4'
+    - '#262128'
+    - '#6e4b4d'
   brandStrength: 0.5
-  lightness: 0.12974455137737095
-  saturation: 0.6875
-  rhythmicContrast: 0.35833680955693126
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
