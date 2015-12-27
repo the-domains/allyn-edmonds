@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My life as a father, photography and ride-share driver.]]></title>
+        <description><![CDATA[My life as a father, photography and ride-share driver.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 20:29:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Year Gone]]></title>
+            <description><![CDATA[<article><h1>Another Year Gone</h1><p>We've come to the end of another year and so it goes. This year has been a difficult one for me personally. Trying to find a suitable job, the death of my parents, and the loss of some friends has taken a toll on me over the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f68b560d84d127262d1535af230dc0adc39491f.jpg"></article>]]></description>
+            <link>undefinedanother-year-gone/index.html</link>
+            <guid isPermaLink="false">f730ba00-b7ee-41db-a838-76cc219bc530</guid>
+            <pubDate>Sun, 27 Dec 2015 20:29:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
